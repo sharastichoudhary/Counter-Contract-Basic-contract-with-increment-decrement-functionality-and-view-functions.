@@ -146,8 +146,6 @@ Create Contract Structure:
 
 bash   mkdir contracts
    # Copy the CounterContract.sol file to contracts/
+Address: 0xBE034E80f4EB928D34cA4a46A2ca5d8B6Ed9FD2f
+<img width="1280" height="720" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/108ea894-f524-4ad0-964e-730294a94d3f" />
 
-Compile & Deploy:
-
-bash   npx hardhat compile
-   npx hardhat run scripts/deploy.js --network localhost
